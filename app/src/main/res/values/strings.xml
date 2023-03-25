@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">4 Button</string>
+    <string name="btn_nate">Nate 접속</string>
+    <string name="btn_911">911 긴급전화</string>
+    <string name="btn_gallery">갤러리 열기</string>
+    <string name="btn_shutdown">종료</string>
+</resources>

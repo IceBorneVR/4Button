@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20px"
+        android:id="@+id/btn_nate"
+        android:text="@string/btn_nate">
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20px"
+        android:id="@+id/btn_911"
+        android:text="@string/btn_911">
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20px"
+        android:id="@+id/btn_gallery"
+        android:text="@string/btn_gallery">
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20px"
+        android:id="@+id/btn_shutdown"
+        android:text="@string/btn_shutdown">
+    </Button>
+
+
+</LinearLayout>
