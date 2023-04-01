@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
 
         // activity_main.xml 에서 생성했던 객체와 연결
-        // 얘네가 꼭
+        // 얘네가 꼭 제일 앞에 있어야됨
         btn_nate = (Button) findViewById(R.id.btn_nate);
         btn_911 = (Button) findViewById(R.id.btn_911);
         btn_gallery = (Button) findViewById(R.id.btn_gallery);
